@@ -2,6 +2,6 @@
 
 public struct SDK {
     public static func logTime() {
-        print("Time: \(Date())")
+        print("Updated Time: \(Date())")
     }
 }
